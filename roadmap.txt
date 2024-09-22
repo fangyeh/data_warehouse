@@ -1,0 +1,5 @@
+Sep 2024
+implement dataform to bq
+
+Oct 2024
+implement data flow to ETL process
